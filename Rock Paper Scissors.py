@@ -12,9 +12,9 @@ print('''
 +-----------------------+
 | Rock Paper Scissors	|
 +-----------------------+
-| 1.rock				|
-| 2.paper				|
-| 3.scissors			|
+| 1.rock		|
+| 2.paper		|
+| 3.scissors		|
 +-----------------------+''')
 
 selection = "y"
